@@ -6,7 +6,10 @@ Hi 👋! My name is Manvendra Singh and I'm a Full Stack Developer 👨‍💻.<
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__.man.ven.dra.__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manvendrasingh27/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/ManvendraS27) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__.man.ven.dra.__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manvendrasingh27/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/ManvendraS27)
+ [![Linktree](https://img.shields.io/badge/LinkTree-%2346A046.svg?logo=linktree&logoColor=white)](https://manvendra2711.github.io/LinkTree-using-HTML-CSS-JS/)  
+
+
 
 ---
 
