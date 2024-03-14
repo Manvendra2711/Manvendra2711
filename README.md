@@ -17,5 +17,5 @@ Hi 👋! My name is Manvendra Singh and I'm a Full Stack Developer 👨‍💻.<
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=manvendra2711&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=manvendra2711&icon=5&color=0)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
