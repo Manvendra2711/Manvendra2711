@@ -1,6 +1,7 @@
 # 👨‍💻 About Me:
 Hi 👋! My name is Manvendra Singh and I'm a Full Stack Developer 👨‍💻.<br>
-🌐 Check out my portfolio at:  https://manvendra2711.github.io/Personal-Portfolio/<br>
+🌐 Check out my Portfolio at:  https://manvendra2711.github.io/Personal-Portfolio/<br>
+🌳 Check out my LinkTree at: https://manvendra2711.github.io/LinkTree-using-HTML-CSS-JS/<br>
 ✉️ Feel free to reach out to me at:  singhmanvendra2711@gmail.com
 
 ---
